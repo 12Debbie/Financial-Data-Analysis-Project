@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Excel
+*.xlsx
+
+# SQL
+*.sql
+
+# Power BI
+*.pbix
+
+# IDE or OS files
+.vscode/
+.idea/
+.DS_Store
